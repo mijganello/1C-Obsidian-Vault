@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "070f0b302a6d46c7",
+        "id": "49bd68c74de181d6",
         "type": "tabs",
         "children": [
           {
-            "id": "6370e158155a6321",
+            "id": "7a5b978d5dd32e17",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Постоянные записи/Объект конфигурации.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Объект конфигурации"
             }
           }
         ]
@@ -80,8 +84,7 @@
               "title": "Search"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -101,12 +104,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Постоянные записи/Объект конфигурации.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Объект конфигурации"
             }
           },
           {
@@ -169,8 +173,7 @@
               "title": "All properties"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -189,13 +192,15 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "6370e158155a6321",
+  "active": "7a5b978d5dd32e17",
   "lastOpenFiles": [
-    "Типы данных в 1С.md",
-    "Постоянные записи/Типы данных в 1С.md",
-    "Постоянные записи/Объект конфигурации.md",
+    "System/AI_Context.md",
+    "System",
     "Постоянные записи/Документ.md",
     "Постоянные записи/Справочник.md",
+    "Постоянные записи/Объект конфигурации.md",
+    "Типы данных в 1С.md",
+    "Постоянные записи/Типы данных в 1С.md",
     "Постоянные записи/Форма объекта конфигурации.md",
     "Постоянные записи/Форма.md",
     "Постоянные записи/Табличная часть.md",
